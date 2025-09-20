@@ -51,6 +51,11 @@ Switching Frequency (Fs) = 25 KHz
 Voltage Ripple (Delta V) = 20mV
 Current Ripple (Delta I) = 0.1A
 
-## Simulation
-## Output
-## Result
+## Simulation:
+<img width="1290" height="589" alt="image" src="https://github.com/user-attachments/assets/183a5d0a-0373-4b25-ba8d-0a42b74c7a85" />
+
+## Output:
+<img width="1918" height="1076" alt="image" src="https://github.com/user-attachments/assets/0a1fdb0b-bea2-4d97-9268-a50039128439" />
+
+## Result:
+Thus to simulate and analyze a step down chopper using MATLAB simulink has been done successfully.
